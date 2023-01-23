@@ -1,1 +1,1 @@
-# miscelleanous GeoData
+# Miscelleanous (openly available) GeoData
